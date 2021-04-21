@@ -1,4 +1,4 @@
-![Alt Text](https://i.redd.it/y1lkn6e7ocq21.jpg)
+
 
 # 👋 Hi there, I'm Alessio Garifo, welcome to my Github!!!😄
 
@@ -9,7 +9,7 @@
 **alessiogarifo92/alessiogarifo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Alt Text](https://i.redd.it/y1lkn6e7ocq21.jpg)
 - 🔭 I’m currently working on overall skills in front-end and back-end developing
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
