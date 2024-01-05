@@ -4,7 +4,7 @@
 
 * 🔭 I’m currently working on overall skills in front-end and back-end developing
 * 🌱 Mostly I use this languages to create my applications: HTML5, CSS3 (Vanilla & Sass), Bootstrap (3 & 4), JavaScript (ES5 & ES6), jQuery, Vue.js, PHP, MySQL, Laravel, Git and more.
-* 📫 Get in touch and more info about me: [Linkedin]([https://www.linkedin.com/in/alessio-garifo-a89697128/](https://www.linkedin.com/in/alessio-garifo-php-developer-a89697128/]))!!!
+* 📫 Get in touch and more info about me: [Linkedin](https://www.linkedin.com/in/alessio-garifo-php-developer-a89697128/)!!!
 <!--
 **alessiogarifo92/alessiogarifo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
